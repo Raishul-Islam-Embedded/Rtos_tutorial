@@ -1,0 +1,10 @@
+23:02:35 **** Incremental Build of configuration Debug for project 5_changePriorityinRuntime ****
+make -j4 all 
+arm-none-eabi-size   5_changePriorityinRuntime.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24460	    116	  20836	  45412	   b164	5_changePriorityinRuntime.elf
+Finished building: default.size.stdout
+ 
+
+23:02:35 Build Finished. 0 errors, 0 warnings. (took 368ms)
+

@@ -1,0 +1,1 @@
+2023-12-05 00:38:54,675 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out

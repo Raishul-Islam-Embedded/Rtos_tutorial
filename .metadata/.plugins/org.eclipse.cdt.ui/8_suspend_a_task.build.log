@@ -1,0 +1,17 @@
+00:43:53 **** Incremental Build of configuration Debug for project 8_suspend_a_task ****
+make -j4 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F401xC -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "8_suspend_a_task.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\RTOS_Workspace\8_suspend_a_task\STM32F401CCUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="8_suspend_a_task.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 8_suspend_a_task.elf
+ 
+arm-none-eabi-size   8_suspend_a_task.elf 
+arm-none-eabi-objdump -h -S  8_suspend_a_task.elf  > "8_suspend_a_task.list"
+   text	   data	    bss	    dec	    hex	filename
+  24460	    116	  20836	  45412	   b164	8_suspend_a_task.elf
+Finished building: default.size.stdout
+ 
+Finished building: 8_suspend_a_task.list
+ 
+
+00:43:54 Build Finished. 0 errors, 0 warnings. (took 1s.182ms)
+

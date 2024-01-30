@@ -1,0 +1,10 @@
+14:21:39 **** Incremental Build of configuration Debug for project 3_task_parameters ****
+make -j4 all 
+arm-none-eabi-size   3_task_parameters.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24276	    132	  20812	  45220	   b0a4	3_task_parameters.elf
+Finished building: default.size.stdout
+ 
+
+14:21:39 Build Finished. 0 errors, 0 warnings. (took 326ms)
+

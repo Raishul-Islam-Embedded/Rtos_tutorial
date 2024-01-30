@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:2_creatingTaskFromOtherTask Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:3_task_parameters Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:5_changePriorityinRuntime Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:6_changingOwnPriority Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:7_readingPriorityOfaTask Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:8_suspend_a_task Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:9_resumingATask Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:10_killing_a_task Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:12_executingATaskPeriodically Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:11_blockATask Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1_task_creation Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:4_task_priority Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:13_IdleTask Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:14_workingWithQueues Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:10_killing_a_task\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:10_killing_a_task\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:14_workingWithQueues\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1_task_creation\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:1_task_creation\ Debug/activeLaunchTarget=null\:---

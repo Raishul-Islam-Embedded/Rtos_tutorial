@@ -1,0 +1,77 @@
+2023-11-03 00:16:00,072 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 283515160 Bytes (636485632)
+2023-11-03 00:16:08,620 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 427620160 Bytes (636485632)
+2023-11-03 00:16:26,658 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-11-03 00:16:26,658 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-11-03 00:16:26,658 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-11-03 00:16:26,658 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-11-03 00:16:26,659 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-11-03 00:16:26,659 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-11-03 00:16:26,663 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-11-03 00:16:26,916 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\license.tmp_save
+2023-11-03 00:16:27,157 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\license.tmp
+2023-11-03 00:16:27,445 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\gpio.tmp_save
+2023-11-03 00:16:27,665 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\gpio.tmp
+2023-11-03 00:16:28,164 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-11-03 00:16:28,205 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_inc.tmp_save
+2023-11-03 00:16:28,313 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_inc.tmp
+2023-11-03 00:16:28,322 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-11-03 00:16:28,425 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_kernelInit.tmp
+2023-11-03 00:16:28,436 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-11-03 00:16:28,519 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_kernelStart.tmp
+2023-11-03 00:16:28,687 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_typedefs.tmp_save
+2023-11-03 00:16:28,791 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_typedefs.tmp
+2023-11-03 00:16:29,044 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_vars.tmp_save
+2023-11-03 00:16:29,148 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_vars.tmp
+2023-11-03 00:16:29,276 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_pfp.tmp_save
+2023-11-03 00:16:29,407 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_pfp.tmp
+2023-11-03 00:16:29,419 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-11-03 00:16:29,508 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_obj_creat.tmp
+2023-11-03 00:16:29,751 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_default_thread.tmp_save
+2023-11-03 00:16:29,894 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_default_thread.tmp
+2023-11-03 00:16:29,974 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_threads.tmp_save
+2023-11-03 00:16:30,043 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_threads.tmp
+2023-11-03 00:16:30,058 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-11-03 00:16:30,069 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_inc.tmp_save
+2023-11-03 00:16:30,178 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_inc.tmp
+2023-11-03 00:16:30,182 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-11-03 00:16:30,255 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_kernelInit.tmp
+2023-11-03 00:16:30,260 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-11-03 00:16:30,335 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_kernelStart.tmp
+2023-11-03 00:16:30,340 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_typedefs.tmp_save
+2023-11-03 00:16:30,403 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_typedefs.tmp
+2023-11-03 00:16:30,415 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_vars.tmp_save
+2023-11-03 00:16:30,636 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_vars.tmp
+2023-11-03 00:16:30,641 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_pfp.tmp_save
+2023-11-03 00:16:30,716 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_pfp.tmp
+2023-11-03 00:16:30,730 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-11-03 00:16:30,804 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_obj_creat.tmp
+2023-11-03 00:16:30,809 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_default_thread.tmp_save
+2023-11-03 00:16:30,882 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_default_thread.tmp
+2023-11-03 00:16:30,886 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_threads.tmp_save
+2023-11-03 00:16:30,949 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\rtos_threads.tmp
+2023-11-03 00:16:31,005 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\Core\Inc\FreeRTOSConfig.h_save
+2023-11-03 00:16:31,142 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\Core\Inc\FreeRTOSConfig.h
+2023-11-03 00:16:31,178 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\Core\Src\freertos.c_save
+2023-11-03 00:16:31,323 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\Core\Src\freertos.c
+2023-11-03 00:16:31,351 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\Core\Src\stm32f4xx_it.c_save
+2023-11-03 00:16:31,759 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\Core\Src\stm32f4xx_it.c
+2023-11-03 00:16:31,779 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\Core\Inc\stm32f4xx_it.h_save
+2023-11-03 00:16:31,930 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\Core\Inc\stm32f4xx_it.h
+2023-11-03 00:16:31,960 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\Core\Src\stm32f4xx_hal_msp.c_save
+2023-11-03 00:16:32,164 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\Core\Src\stm32f4xx_hal_msp.c
+2023-11-03 00:16:32,170 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\MXTmpFiles\system.tmp_save
+2023-11-03 00:16:32,284 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\MXTmpFiles\system.tmp
+2023-11-03 00:16:32,316 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2023-11-03 00:16:32,451 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\Core\Src\stm32f4xx_hal_timebase_tim.c
+2023-11-03 00:16:32,475 [INFO] CodeEngine:311 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-11-03 00:16:32,692 [INFO] CodeEngine:335 - Generated code: D:\RTOS_Workspace\1_task_creation\Core\Inc\stm32f4xx_hal_conf.h
+2023-11-03 00:16:32,777 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\Core\Inc\main.h_save
+2023-11-03 00:16:32,960 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\Core\Inc\main.h
+2023-11-03 00:16:32,974 [INFO] CodeEngine:255 - oldGeneratedFile, D:\RTOS_Workspace\1_task_creation\Core\Src\main.c_save
+2023-11-03 00:16:33,150 [INFO] CodeEngine:279 - Generated code: D:\RTOS_Workspace\1_task_creation\Core\Src\main.c
+2023-11-03 00:16:33,924 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 306mS.
+2023-11-03 00:16:33,931 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-11-03 00:16:34,552 [INFO] ConfigFileManager:1457 - The Die is : DIE423
+2023-11-03 00:16:39,223 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 5292mS.
+2023-11-03 00:16:39,224 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-11-03 00:16:39,229 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.

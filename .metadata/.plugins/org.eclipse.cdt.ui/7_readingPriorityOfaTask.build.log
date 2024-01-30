@@ -1,0 +1,10 @@
+00:22:41 **** Incremental Build of configuration Debug for project 7_readingPriorityOfaTask ****
+make -j4 all 
+arm-none-eabi-size   7_readingPriorityOfaTask.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24508	    116	  20836	  45460	   b194	7_readingPriorityOfaTask.elf
+Finished building: default.size.stdout
+ 
+
+00:22:41 Build Finished. 0 errors, 0 warnings. (took 326ms)
+
